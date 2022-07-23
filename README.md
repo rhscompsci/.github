@@ -1,4 +1,4 @@
-### Richardson High School Computer Science
+### [Richardson High School Computer Science](https://github.com/rhscompsci.org)
 
 #### Preface
 
@@ -12,7 +12,7 @@ Richardson High School Computer Science (hereafter referred to as RHSCompSci) is
 
 This organisation is publically accessible, which opens up a level of liablily for students and instructors who might decide to participate, i.e., pull, push, submit pull request or issues. We ask that if you are not directly associated, or if you are, nonetheless, act rationally and kindly towards one another. This is not meant to deter interaction on this platform. This is still a open and relaxed online space, simply, be cognisant of your actions.
 
-Taking this into consideration, however, any help is appreciated from those who are generous enough to donate their time and efforts.
+<strong>Taking this into consideration, however, any help is appreciated from those who are generous enough to donate their time and efforts.</strong>
 
 #### Standards
 
