@@ -2,7 +2,7 @@
 
 #### Preface
 
-This GitHub organisation is unaffliated with the city of Richardson, Richardson Independent School District, and by extension any Texas-based academic institution. We do not claim to be sponored or supported at all by the aforementioned parties.
+This GitHub organisation is unaffliated with the city of Richardson, Richardson Independent School District, and by extension any Texas-based academic institution. We do not claim to be sponored or supported at all aforementioned parties.
 
 #### Description
 
