@@ -19,5 +19,3 @@ This organisation is publically accessible, which opens up a level of liablily f
 Organisation of the repositories makes future access simplified for future students. Refer to the global or repository-specific community health files to maintain the status quo. These will include, but not be limited to file naming conventions, code structure, issue and template formatting.
 
 <i>Thank you, kindly, for reading this excerpt.</i>
-
-Christian Anderson
